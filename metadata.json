@@ -1,0 +1,5 @@
+{
+  "name": "fruit-test",
+  "description": "A high-octane fruit slicing game featuring multiple weapons (Katana, Bow, Cannon), real-time physics-based interactions, and a competitive leaderboard that resets every 30 minutes.",
+  "requestFramePermissions": []
+}
